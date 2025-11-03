@@ -1,7 +1,0 @@
-# Ignorer les fichiers système Windows
-Thumbs.db
-Desktop.ini
-*.lnk
-
-# Ignorer dossiers temporaires
-*.tmp
